@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=python
+POSTGRES_USER=aWdKyLnTnBiCGRolfASptxadqKRiYAzW
+POSTGRES_PASSWORD=QM8OWr9HYWXjO2DMSzoAFSOeCtbtAzKlw3GH07tyatnhnfuAQ9KoBwiRZTJiISUw
